@@ -1,7 +1,12 @@
 // Import stylesheets
 import "./style.css";
-import "./js/objectCreateMethod";
+
+// Import JS files
+//import "./js/objectCreateMethod";
+//import "./js/objectCreateClass";
+import "./js/objectCreateClassEnumerable";
+
 // Write Javascript code!
 const appDiv = document.getElementById("app");
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
-console.log("áaa");
+// console.log("áaa");
