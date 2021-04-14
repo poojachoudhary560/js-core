@@ -32,6 +32,7 @@ console.log(animal2);
 function CompleteAnimal(name, energy) {
   this.name = name;
   this.energy = energy;
+  // the name of this pattern is called pseudo-classical instantiation
 }
 
 CompleteAnimal.prototype.eat = function(amount) {
